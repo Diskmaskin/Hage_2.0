@@ -1,0 +1,29 @@
+Continer
+
+
+Window
+
+
+Renderer
+
+
+Input
+
+	keys
+		KeyEvent.VK_{a key}
+	
+	mouse
+	
+		button
+			
+			MouseEvent.BUTTON{}
+			
+		scroll wheel
+			
+			scroll should be 0 by default
+			
+			up = scroll - 1
+			down = scroll + 1
+			
+		movement
+			

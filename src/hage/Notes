@@ -1,0 +1,40 @@
+Can only place new piece adjecent to one of your own pieces
+
+PIECES
+
+Nr 			Name, rules
+(dark/light)
+1/7			Bonde
+
+2/8			Springare
+
+3/9			Lopare
+
+4/10		Drottning
+
+5/11		Kung
+
+6/12		Torn
+			- Can't move
+
+team = 0 (dark) or 1 (light)
+
+CARDS
+
+E	+1 Bonde
+2	+2 attack
+3	+3 attack
+4	+4 attack
+5	+2 HP
+6	+4 HP
+7	+6 HP
+8	+1 step
+9	
+10	Take 2 cards
+Kn	+1 Springare
+D	+1 Dam
+K	Overthrow a Torn
+
+Text
+
+text needed for image: ' ' (space), '.' (dot), '/' (forwardslash)
